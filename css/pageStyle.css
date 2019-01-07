@@ -46,10 +46,6 @@
 
 }
 
-.clearFloat{
-    clear: both;
-}
-
 input{
     width: 70%;
     padding: 8px;
